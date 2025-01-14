@@ -17,9 +17,6 @@ Melanoma Detection Assignment
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-A stable model has been built by implementing Augmentation, Batch Normalization, Dropout and Regularization techniques which can predict Melanoma early
-
 ## Technologies Used
 - Python - version 3.8.10
 - Pandas - version 2.2.2
@@ -28,6 +25,9 @@ A stable model has been built by implementing Augmentation, Batch Normalization,
 - Keras - version 2.7.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Conclusions
+A stable model has been built by implementing Augmentation, Batch Normalization, Dropout and Regularization techniques which can predict Melanoma early
 
 ## Contact
 Created by [@disciplined-coder] - feel free to contact me!
